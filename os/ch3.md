@@ -1,9 +1,9 @@
-# Processes
-
-> Process is a program running in execution
+# Process
+**@Process is a program running in execution**
 
 ---
-### Sections of a process
+
+**Sections of a #Process**
 * Text Section
   * The Executable Code
 * Data Section
@@ -16,12 +16,14 @@
 ---
 
 
-**Process is an active entity**
+**[[Process]] is an active entity**
 
-**Program is a passive entity**
+**[[Process]] is a passive entity**
+
+#Process
 
 
-# Process Control Block (PCB)
+## Process Control Block (PCB)
 
 > Each process is represented by **Process Control Block** or **Task Control Block**
 
