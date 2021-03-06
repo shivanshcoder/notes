@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "153654ac1301cc5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eea62884cf0ea03",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Instruction.md",
+            "mode": "source"
+          }
+        },
+        "group": "ea5737969548d97f"
+      },
+      {
+        "id": "950275b96a31fa30",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Instruction.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ea5737969548d97f"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "47c9ef935bdb7bcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6934b0b0f35a3fea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34cf9513a4690a00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a3764fbccaffeb0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#R",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0908322900c0ef7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c2026161c15001e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eeaa20dfb566794",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Instruction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Instruction.md",
+    "Reference.md",
+    "Random.md",
+    "Untitled.md"
+  ]
+}
