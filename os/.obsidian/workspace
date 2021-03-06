@@ -1,46 +1,33 @@
 {
   "main": {
-    "id": "0414348b80a506b2",
+    "id": "00fdca1ecc8c258c",
     "type": "split",
     "children": [
       {
-        "id": "a41a3bf8af36c4fc",
+        "id": "2d49c63555a631b3",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "os/Processes/Process Scheduling.md",
+            "file": "Processes/Interprocess Communication.md",
             "mode": "source"
           }
-        },
-        "group": "f441deef935294ec"
-      },
-      {
-        "id": "ad2ad41f408e5374",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "os/Processes/Process Scheduling.md",
-            "mode": "preview"
-          }
-        },
-        "group": "f441deef935294ec"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "39adb384d41f0e5e",
+    "id": "4e3521709d88b4bd",
     "type": "split",
     "children": [
       {
-        "id": "8243fdce7aec3d0a",
+        "id": "63f1ea55b66b5f49",
         "type": "tabs",
         "children": [
           {
-            "id": "8ec526ace471cd89",
+            "id": "be0bb9a93dee532f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +35,12 @@
             }
           },
           {
-            "id": "e449f9543337da22",
+            "id": "7b229ce71f9dbc9a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "swapping",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,23 +53,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 386
   },
   "right": {
-    "id": "3810061e8806fca5",
+    "id": "f033d44f3a0f7d20",
     "type": "split",
     "children": [
       {
-        "id": "c92173976ec52e45",
+        "id": "dad82dddfc21b726",
         "type": "tabs",
         "children": [
           {
-            "id": "1d21adda89511133",
+            "id": "5dd124eec14bc40f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "os/Processes/Process Scheduling.md",
+                "file": "Processes/Interprocess Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,14 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "os/Processes/Process Scheduling.md",
-    "os/Processes/Process.md",
-    "os/Processes/Operations on Processes.md",
-    "References.md",
-    "README.md",
-    "Process.md",
-    "os/Processes/Untitled.md",
-    "os/ch3.md",
-    "Untitled.md"
+    "Processes/Interprocess Communication.md",
+    "Interprocess Communication.md",
+    "Processes/Definitions.md",
+    "Untitled.md",
+    "Processes/Extras.md",
+    "Processes/Process.md",
+    "Processes/Threads.md",
+    "Processes/Process Scheduling.md",
+    "Processes/Operations on Processes.md",
+    "Definitions.md"
   ]
 }

@@ -1,4 +1,4 @@
-# #Process
+# Process
 Program in Execution is called a process.
 **Program is an Passive entity, whereas Process is an Active entity**
 
@@ -25,7 +25,7 @@ Program in Execution is called a process.
 
 ---
 
-## #Process_State
+## Process_State
 Defined by the current activity of that process
 
 ### States of a Process
